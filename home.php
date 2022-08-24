@@ -28,7 +28,7 @@ $result = mysqli_query($conn, $consulta);
 <center>
 	<div style="position: relative;">
 
-		<h2>Listagem de Clientes:</h2>
+		<h2>Listagem de Clientes</h2>
 		Você está logado como <?php echo $dados['cli_nome']; ?>
 		<br>
 		<table border="1"> 
